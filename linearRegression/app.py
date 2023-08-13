@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 from model import LinearRegressor
+import numpy as np
 
 app = Flask(__name__)
 

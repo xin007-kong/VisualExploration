@@ -1,0 +1,3 @@
+- 每次学机器学习，虽然有各种通俗易懂注重实战的教程，但还是觉得枯燥...
+- 我们来尝试可视化吧！
+- 这里尝试将《**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**》3ed 这本书里的内容用 streamlit 的方式呈现出来
