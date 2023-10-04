@@ -88,7 +88,7 @@ def plot_memory_palace(base, l, size=10):
     st.pyplot(fig)
 
 
-st.title("线性表的顺序表示：记忆宫殿")
+st.title("线性表的顺序表示")
 
 base = st.number_input("请输入基地址 LOC(a1):", min_value=0, value=100, step=1)
 l = st.number_input("请输入元素所占存储单位:", min_value=0, value=10, step=1)
